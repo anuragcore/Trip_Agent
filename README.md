@@ -90,3 +90,4 @@ AI-powered travel planning assistant with a React/Tailwind frontend and FastAPI 
 
 - Keep `.env` values secret and do not commit them to GitHub
 - Add any additional integration details or deployment instructions as needed
+
